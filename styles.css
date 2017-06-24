@@ -1,0 +1,14 @@
+#difference {
+  border-radius: 50px;
+  border:2px solid orange;
+  margin: 0 auto;
+}
+p {
+  color: #3E50E6;
+}
+.container {
+  margin: 0 auto;
+  border: 2px solid orange;
+  width: 260px;
+  height: 80px;
+}
